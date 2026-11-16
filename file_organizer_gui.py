@@ -1,6 +1,6 @@
 """
 Auto File Organizer - GUI Version
-by Mayur (@vibe.coderr_)
+by Mayur
 
 Press a button, pick a folder, and the organizer does the work.
 This is the GUI version of the CLI tool (file_organizer.py).

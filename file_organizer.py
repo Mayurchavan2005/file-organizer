@@ -1,5 +1,5 @@
 """
-Auto File Organizer - by Mayur (@vibe.coderr_)
+Auto File Organizer - by Mayur
 ================================================
 Sorts the files in a folder (default: Downloads) into
 separate folders by file type.
