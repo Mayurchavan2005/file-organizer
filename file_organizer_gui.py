@@ -19,7 +19,7 @@ from file_organizer import organize, undo, get_category
 class FileOrganizerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Auto File Organizer - @vibe.coderr_")
+        self.root.title("Auto File Organizer")
         self.root.geometry("520x460")
         self.root.resizable(False, False)
 
